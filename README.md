@@ -10,7 +10,7 @@ w
 <p align="center">
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank">
 <img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator licence" />
-</a>
+</a>f
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/fork" target="blank">
 <img src="https://img.shields.io/github/forks/rahuldkjain/github-profile-readme-generator?style=flat-square" alt="github-profile-readme-generator forks"/>
 </a>
