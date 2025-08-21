@@ -3,10 +3,7 @@
     <img alt="GitHub Profile Readme Generator" src="./src/images/mdg.png" width="60" />
   </a>
 </p>
-<h1 align="center">
-  GitHub Profile README Generator
-</h1>
-w
+<h1 align="cente
 <p align="center">
 <a href="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/LICENSE" target="blank"
 <img src="https://img.shields.io/github/license/rahuldkjain/github-profile-readme-generator?style=fla
